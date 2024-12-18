@@ -1,2 +1,2 @@
 # api-rest
-Feito em dupla com Maryene
+Feito em dupla com Maryene Claudino
